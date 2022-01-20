@@ -1,5 +1,5 @@
 class Book:  # En class som heter Book, !!!class namn börjar alltid med en stor bokstav.
-    def __init__(self, titel, arthur):  # Skapat en metod och la till atributer som är använda i dennna klassen är titel och arthur.
+    def __init__(self, titel,arthur):  # Skapat en metod och la till atributer som är använda i dennna klassen är titel och arthur.
         self.t = titel  # En sträng
         self.a = arthur  # En sträng
 
